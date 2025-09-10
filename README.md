@@ -1,7 +1,7 @@
 
 # 📱 [Flutter-Quizz]
 
-> Dice demo application, for educational purposes.
+> Flutter Quizz demo application, for educational purposes.
 
 ## 📋 Description
 
